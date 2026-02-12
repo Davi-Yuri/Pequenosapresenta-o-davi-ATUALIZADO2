@@ -168,11 +168,11 @@ section h2 {
     padding: 13px;
 }
 
-.Pretence {
+.Paranoy {
     flex-basis: 360px;
     flex-grow: 1;
     flex-shrink: 1;
-    background-color: hsl(0, 0%, 66%);
+    background-color: hsl(14, 80%, 28%);
     border-radius: 12px;
     padding: 13px;
 }
@@ -185,6 +185,7 @@ section h2 {
     border-radius: 12px;
     padding: 13px;
 }
+
 
 .loveshot {
     display: inline-block;
