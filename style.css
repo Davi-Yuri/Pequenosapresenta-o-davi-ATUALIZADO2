@@ -251,3 +251,9 @@ section h2 {
     padding: 4px 8px 4px 8px;
     border-radius: 8px
 }
+
+.imgscale {
+    width: 220px;
+    height: 230px;
+    border-radius: 5px;
+}
